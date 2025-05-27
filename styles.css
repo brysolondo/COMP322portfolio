@@ -1,0 +1,70 @@
+/* Bryson London */
+/* COMP32203A.202530 */
+/* I am writing this code to style the writing for my little_prince.html webpage using GitHub */
+
+
+/* General body styling for layout and readability */
+body {
+    font-family: Georgia, serif;
+    background-color: #fdf6e3;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Main page title styling */
+h1 {
+    text-align: center;
+    color: #4a4a4a;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Image styling to center and enhance appearance */
+.centered-image {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 100%;
+    border: 3px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Styling for paragraph text inside quote-text container */
+.quote-text p {
+    margin-bottom: 15px;
+    font-size: 1.1em;
+}
+
+/* Orange highlight */
+.highlight-orange {
+    background-color: orange;
+    font-weight: normal;
+    color: black;
+}
+
+/* Red text for quotes */
+.highlight-red {
+    color: #c0392b;
+    font-weight: bold;
+}
+
+/* Basic link styling */
+a {
+    color: #3366cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Link styling on hover */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styling for the back link section */
+.back-link {
+    text-align: center;
+    margin-top: 30px;
+}
+
